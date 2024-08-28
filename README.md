@@ -1,1 +1,1 @@
-# Computational-Course-FEM
+Foundations of computational finite element methods
